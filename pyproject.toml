@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "fastapi-filters"
+name = "fastapi-filters-wbarnha"
 version = "0.2.10"
-description = "fastapi-filters"
+description = "fastapi-filters, just a fork to experiment with"
 authors = ["Yurii Karabas <1998uriyyo@gmail.com>"]
 readme = "README.md"
 license = "MIT"
